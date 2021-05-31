@@ -7,10 +7,13 @@ Supported parts of the theme are:
 
 ## Screenshots
 Screenshot of Notepad++ with the VS2019-Light-NPP theme:
+
 ![Notepad++ with VS2019-Light-NPP theme](NPP-VS2019-Light-NPP.png)
 Screenshot of Notepad++ with the default theme:
+
 ![Notepad++ with default theme](NPP-Default.png)
 Screenshot of Visual Studio 2019 with the default light theme:
+
 ![Notepad++ with default light theme](VS2019-Light.png)
 
 ## Other Themes
